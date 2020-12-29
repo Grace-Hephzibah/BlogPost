@@ -9,4 +9,4 @@ Link: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html
 
 The entire text is blind text and photo is also not mine. I will give some valuable text maybe later.
 
-I am also learning CSS and I will style the Blog Post in the near future.
+I have also started learning CSS and I have styled the Blog Post.
